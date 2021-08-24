@@ -1,0 +1,23 @@
+{
+  "name": "socialnet",
+  "version": "1.0.0",
+  "description": "social networking application for use on coding bootcamp UCF",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mervens/MV-Social-Network.git"
+  },
+  "author": "Mervens Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mervens/MV-Social-Network/issues"
+  },
+  "homepage": "https://github.com/Mervens/MV-Social-Network#readme",
+  "dependencies": {
+    "mongoose": "^5.13.8"
+  }
+}
